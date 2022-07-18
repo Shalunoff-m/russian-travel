@@ -1,0 +1,28 @@
+.wrapper {
+  max-width: 900px;
+  min-height: 500px;
+  border: 1px rgb(0, 183, 255) solid;
+  border-radius: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 50px;
+}
+.child1 {
+  /* flex: 1; */
+  /* max-width: 700px; */
+  height: 500px;
+  border: 2px rgb(255, 0, 106) solid;
+  flex-basis: 100px;
+  margin: 0 50px;
+}
+.child2 {
+  max-width: 500px;
+  /* min-height: 500px; */
+  border: 2px rgb(255, 0, 106) solid;
+}
+.child3 {
+  max-width: 500px;
+  /* min-height: 500px; */
+  border: 2px rgb(255, 0, 106) solid;
+}
