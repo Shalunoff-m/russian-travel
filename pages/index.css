@@ -1,9 +1,11 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts.css);
+
 .show {
   border: 1px white solid;
   border-radius: 15px;
 }
+
 .page {
   background-color: #2a2c2f;
   color: white;
