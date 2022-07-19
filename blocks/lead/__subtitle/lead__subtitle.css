@@ -9,7 +9,7 @@
   font-size: 30px;
   line-height: 36px;
   text-align: center;
-  transition: all 1s;
+  transition: font-size 1s;
 }
 @media screen and (max-width: 1152px) {
   .lead__subtitle {

@@ -10,6 +10,7 @@
   text-decoration: none;
   transition: opacity 1s;
   margin-right: 16px;
+  transition: font-size 1s;
 }
 @media screen and (max-width: 544px) {
   .header__lang {

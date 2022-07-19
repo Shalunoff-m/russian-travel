@@ -9,7 +9,7 @@
   font-size: 96px;
   line-height: 100px;
   text-align: center;
-  transition: all 1s;
+  transition: font-size 1s;
 }
 @media screen and (max-width: 700px) {
   .lead__title {

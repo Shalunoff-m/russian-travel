@@ -6,7 +6,7 @@
   font-weight: 900;
   font-size: 54px;
   line-height: 58px;
-  transition: all 1s;
+  transition: font-size 1s;
 }
 @media screen and (max-width: 544px) {
   .intro__header {
