@@ -1,0 +1,19 @@
+.page__header {
+  margin: 0 48px 56px;
+  transition: all 1s;
+}
+@media screen and (max-width: 1152px) {
+  .page__header {
+    margin: 0 48px 48px;
+  }
+}
+@media screen and (max-width: 896px) {
+  .page__header {
+    margin: 0 24px 48px;
+  }
+}
+@media screen and (max-width: 544px) {
+  .page__header {
+    margin: 0 16px 50px;
+  }
+}

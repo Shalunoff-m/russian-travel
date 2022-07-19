@@ -1,0 +1,18 @@
+.intro__header {
+  margin: 0 0 40px;
+  padding: 0;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 54px;
+  line-height: 58px;
+  transition: all 1s;
+}
+@media screen and (max-width: 544px) {
+  .intro__header {
+    width: 80%;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 35px;
+  }
+}

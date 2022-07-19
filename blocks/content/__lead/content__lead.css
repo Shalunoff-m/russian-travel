@@ -1,0 +1,14 @@
+.content__lead {
+  margin: 0 48px 92px;
+  transition: all 1s;
+}
+@media screen and (max-width: 896px) {
+  .content__lead {
+    margin: 0 0 88px;
+  }
+}
+@media screen and (max-width: 544px) {
+  .content__lead {
+    margin: 0 0 64px;
+  }
+}

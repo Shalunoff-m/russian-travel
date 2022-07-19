@@ -1,0 +1,22 @@
+.places {
+  flex-basis: 984px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 81px;
+}
+@media screen and (max-width: 1152px) {
+  .places {
+    gap: 75px;
+  }
+}
+@media screen and (max-width: 896px) {
+  .places {
+    gap: 51px;
+  }
+}
+@media screen and (max-width: 544px) {
+  .places {
+    gap: 51px;
+  }
+}
